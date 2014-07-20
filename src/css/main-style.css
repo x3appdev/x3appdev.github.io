@@ -1,9 +1,12 @@
 * {
   margin: 0;
   padding: 0;
+}
+
 body {
   font-size: 62.5%;
-  font-family: helvetica, times, serif;  
+  font-family: helvetica, arial, sans-seriff; 
+}
 
 h1 {
   color: #f00;
